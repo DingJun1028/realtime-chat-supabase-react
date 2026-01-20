@@ -9,7 +9,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@chakra-ui/react": "^3.19.1",
+    "@chakra-ui/react": "^3.30.0",
     "@emotion/react": "^11.14.0",
     "@supabase/supabase-js": "^2.39.0",
     "dayjs": "^1.11.10",
